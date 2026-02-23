@@ -1,0 +1,4 @@
+
+数字IC后端
+基于数字IC前端结果picorv32.v ，完成DC综合到P&R以及STA、FM、vertification等工业级流程
+前端资料：https://github.com/YosysHQ/picorv32
